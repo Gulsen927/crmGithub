@@ -1,6 +1,11 @@
 package test1;
 
 public class GroupTest {
-    //step1
+
+    //Valeriy
+    //Valeriy
+
+    //step1J
     //step2
+
 }
